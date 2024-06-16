@@ -279,7 +279,7 @@ header i{
     width: 90%;
     height: 130px;
     margin: auto;
-    background-image: url('../image/karagiri\ launched.webp');
+    background-image: url('./image/karagiri\ launched.webp');
     background-position: center;
     background-size: cover;
     margin-top: 45px;
